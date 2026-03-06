@@ -36,7 +36,6 @@ Displays **Total Revenue by Country**, highlighting top-performing markets.
 
 ### 2️⃣ Waterfall Chart / Pie Chart  
 Shows how each year contributes to overall revenue, allowing performance comparison over time.
-You can switch with the above buttons.
 
 ### 3️⃣ Scatter Plot  
 Analyzes the correlation between **Revenue (Amount)** and **Boxes Shipped**.
