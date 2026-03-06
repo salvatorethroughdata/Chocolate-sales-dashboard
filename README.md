@@ -4,7 +4,7 @@
 
 This Power BI project analyzes global chocolate sales transactions.
 
-The goal of the analysis is to evaluate sales performance, identify top-performing countries and salespeople, detect trends over time, and uncover actionable business insights through interactive dashboards.
+The goal of the analysis is to evaluate sales performance, identify top-performing countries and salespeople.
 
 ---
 
@@ -34,15 +34,13 @@ These KPIs provide a high-level performance overview and support deeper analytic
 ### 1️⃣ Clustered Bar Chart  
 Displays **Total Revenue by Country**, highlighting top-performing markets.
 
-### 2️⃣ Waterfall Chart  
+### 2️⃣ Waterfall Chart / Pie Chart  
 Shows how each year contributes to overall revenue, allowing performance comparison over time.
+You can switch with the above buttons.
 
 ### 3️⃣ Scatter Plot  
-Analyzes the correlation between **Revenue (Amount)** and **Boxes Shipped**.  
-
-The visualization reveals an important outlier:
-
-- **Canada** shows a high number of boxes shipped without a proportional increase in revenue, suggesting potential pricing, discounting, or margin issues.
+Analyzes the correlation between **Revenue (Amount)** and **Boxes Shipped**.
+There aren't any particular outliers.
 
 ### 4️⃣ Sales Performance Table  
 
@@ -60,13 +58,14 @@ To enhance analytical flexibility, the dashboard includes:
 - Country slicer
 - Year slicer
 - Product slicer
+- Switch buttons
+- Drill Through in the sales performance table
 
-These slicers allow dynamic filtering and deeper drill-down analysis.
+These slicers and drill through allow dynamic filtering and deeper drill-down analysis.
 
 ---
 
 ## 🏆 Key Insights
 
 - **Best Performing Country:** Australia  
-- **Top Salesperson:** Ches Bonnell  
-- Canada identified as a potential performance anomaly due to high volume but lower revenue impact.
+- **Top Salesperson:** Ches Bonnell
