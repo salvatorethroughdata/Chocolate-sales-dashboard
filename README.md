@@ -39,7 +39,7 @@ Shows how each year contributes to overall revenue, allowing performance compari
 
 ### 3️⃣ Scatter Plot  
 Analyzes the correlation between **Revenue (Amount)** and **Boxes Shipped**.
-There aren't any particular outliers.
+The correlation is positive as we can imagine.
 
 ### 4️⃣ Sales Performance Table  
 
