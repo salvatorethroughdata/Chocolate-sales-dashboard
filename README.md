@@ -22,10 +22,6 @@ The goal of the analysis is to evaluate sales performance, identify top-performi
 - **Total Revenue**
 - **Total Boxes Shipped**
 - **Average Revenue per Box**
-- **Number of Products**
-- **Number of Countries**
-
-These KPIs provide a high-level performance overview and support deeper analytical exploration.
 
 ---
 
@@ -38,8 +34,9 @@ Displays **Total Revenue by Country**, highlighting top-performing markets.
 Shows how each year contributes to overall revenue, allowing performance comparison over time.
 
 ### 3️⃣ Scatter Plot  
-Analyzes the correlation between **Revenue (Amount)** and **Boxes Shipped**.
-The correlation is positive as we can imagine.
+Analyzes the correlation between **Average Revenue per Box** and **Boxes Shipped**.
+The correlation is negative as we can imagine.
+This means that the best performer salesperson, in terms of boxes shipped, sells products at a low cost.
 
 ### 4️⃣ Sales Performance Table  
 
@@ -58,7 +55,7 @@ To enhance analytical flexibility, the dashboard includes:
 - Year slicer
 - Product slicer
 - Switch buttons
-- Drill Through in the sales performance table
+- Drill Through feature
 
 These slicers and drill through allow dynamic filtering and deeper drill-down analysis.
 
